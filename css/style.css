@@ -244,6 +244,10 @@ img {
 #reported{
   display: none;
 }
+.question-ans{
+  margin:15px;
+  background-color: aliceblue;
+}
 
 @media only screen and (max-width: 992px) {
   #posts {
